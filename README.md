@@ -49,5 +49,6 @@ Grab me a coffee
 https://ko-fi.com/irishstevie
 
 ## My Discord
+https://discord.com/invite/d9AE5WxEDM
 
 
