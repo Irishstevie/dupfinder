@@ -40,11 +40,14 @@ This script is provided under the [MIT License](LICENSE).
 
 ## Disclaimer
 
-For any questions or issues, feel free to open an issue or contact the repository owner.
+For any questions or issues, feel free to open an issue.
 
 Happy coding!
 
 ## Support Me
 Grab me a coffee
 https://ko-fi.com/irishstevie
+
+## My Discord
+
 
