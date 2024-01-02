@@ -1,7 +1,7 @@
 fx_version "cerulean"
 game "gta5"
 
-author "Drill UK"
+author "Stevie"
 description "Dupfinder"
 --repository ""
 version "v0.0.1"
@@ -13,7 +13,3 @@ server_scripts {
   "@oxmysql/lib/MySQL.lua",
   "server/server.lua"
 }
-
-
-
-
